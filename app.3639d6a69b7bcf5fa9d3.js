@@ -1,0 +1,1 @@
+webpackJsonp([0,3],{0:function(n,e,t){t(1);var o=t(31);document.body.appendChild(o())},31:function(n,e){n.exports=function(){var n=document.createElement("h1");return n.innerHTML="HAPPY 4/20 DAY!!",n}}});
